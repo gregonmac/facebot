@@ -1,0 +1,25 @@
+{
+  "name": "facebot",
+  "version": "1.0.0",
+  "description": "facebook bot sample",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregonmac/facebot.git"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot"
+  ],
+  "author": "gregonmac@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregonmac/facebot/issues"
+  },
+  "homepage": "https://github.com/gregonmac/facebot#readme"
+}
